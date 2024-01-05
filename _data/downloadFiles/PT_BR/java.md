@@ -8,7 +8,7 @@
    - Conhecer os operadores de atribuição e comparação
    - Usar estruturas de repetição e laços ('while', 'for')
    - Usar funções, passando parâmetros e argumentos
-   - Manipular métodos
+   - Manipular métodos 
    - Manipular arrays e listas
    - Obter dados de uma API
    - Criar construtores
